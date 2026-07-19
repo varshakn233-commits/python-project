@@ -1,4 +1,4 @@
-# python-project
+# E-commerce Sales Analysis
 ## 📖 Project Overview
 
 This project analyzes the Sample Superstore dataset using Python. The objective is to explore sales performance, profit trends, customer behavior, and regional performance through data visualization and exploratory data analysis (EDA).
